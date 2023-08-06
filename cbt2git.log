@@ -1,0 +1,10 @@
+2023-08-06 03:52:06.936454 - Initialized conversion of CBT398
+2023-08-06 03:52:07.010151 - Received CBT.V505.FILE398.PDS from FILE398.XMI 
+2023-08-06 03:52:07.012615 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE398.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:52:07.013625 - Found $$$DOC1.txt (text/plain) in CBT.V505.FILE398.PDS, moved to PDS/$$$DOC1
+2023-08-06 03:52:07.014734 - Found @FILE398.txt (text/plain) in CBT.V505.FILE398.PDS, moved to PDS/@FILE398
+2023-08-06 03:52:07.015706 - Found HANDBOOK.jcl (text/plain) in CBT.V505.FILE398.PDS, moved to PDS/HANDBOOK
+2023-08-06 03:52:07.016594 - Found IBMMAC.txt (text/plain) in CBT.V505.FILE398.PDS, moved to PDS/IBMMAC
+2023-08-06 03:52:07.017498 - Found IBMMACO.txt (text/plain) in CBT.V505.FILE398.PDS, moved to PDS/IBMMACO
+2023-08-06 03:52:07.018478 - Found IMAC.rexx (text/plain) in CBT.V505.FILE398.PDS, moved to PDS/IMAC
+2023-08-06 03:52:07.019408 - Found IMACBLD.rexx (text/plain) in CBT.V505.FILE398.PDS, moved to PDS/IMACBLD
